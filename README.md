@@ -1,4 +1,5 @@
-prototypes
+Reinforcement learning prototypes
 ==========
 
-Misc prototyping
+Prototyping algorithms, webapps etc. related to reinforcement learning.
+
